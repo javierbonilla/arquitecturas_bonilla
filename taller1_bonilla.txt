@@ -1,0 +1,45 @@
+
+TALLER
+ARQUITECTURA DE SOFTWARE
+                                
+
+
+
+
+Christian Javier Bonilla Calderón 
+Alumno
+link: https://github.com/javierbonilla
+
+Edicsón Pineda Cadena
+Docente 
+
+
+
+
+Universidad Piloto De Colombia
+Girardot
+2014
+
+
+
+TALLER 
+
+1.QUE ES U REPOSITORIO ?
+	RTA: 		
+	Es un término utilizado en el dominio de las herramientas CASE. El repositorio            podría definirse como la base de datos fundamental para el diseño; no sólo guarda datos, sino también algoritmos de diseño y, en general, elementos software necesarios para el trabajo de programación.
+CARACTERÍSTICAS•   
+       Contenido – Información académica. – ("Biblioteca digital" es un término más amplio para incluir todo tipo de documento).• En libre acceso• Interoperable – Se refiere a la posibilidad de que los metadatos puedan ser recogidos por otros servicios. (Protocolo OAI-PMH). Los repositorios 4
+ 
+OBJETIVOS:
+	Difusión – Favorecer la difusión de los contenidos académicos. Algunos de ellos se publican en revistas de poca difusión o son de suscripción elevadas.• Visibilidad – Dar visibilidad a la búsqueda de una institución y de sus miembros.• Acceso abierto – Facilitar el acceso abierto a la información académica. Aunque a veces pueda haber contenidos de acceso restringido (en la propia institución, por ejemplo).• Preservación – Facilitar la conservación y preservación de los documentos generados por una institución. 
+
+
+4.QUE SIGNIFICA M.V.C. ?
+MVC responde a las siglas Model-View-Contoller ó Modelo-Vista-Controlador.
+Digamos sin entrar en purismos, que MVC es un patrón aplicado a la Arquitectura de Software que tiene como objetivo fundamental, separar el código de una aplicación de la siguiente manera:
+Separación de los datos de la aplicación de la interfaz de usuario, y relacionar las acciones de la interfaz de usuario con un controlador que está en medio entre el usuario y los datos.
+En el controlador reside la lógica de control que nos permitirá accionar adecuadamente las acciones que el usuario realice en la aplicación.
+Además de la clara separación de las capas de la aplicación, su reutilización y su mantenimiento, se reducen las líneas de código en la parte de usuario, y por ende, nos permite realizar pruebas unitarias de una forma mucho más extensa.
+Modelo (M) se encargará de manejar los datos de nuestra aplicación y de persistir los datos.
+La Vista (V) tendrá como objetivo representar o mostrar los datos. Es la parte más cercana al usuario, la interfaz del usuario propiamente dicha, y tiene como misión, no contener ninguna lógica de negocio. La idea es que las vistas no contengan ningún archivo .cs o .vb enlazadas a las páginas Web ASP.NET, es decir, se utilizarán páginas Web ASP.NET puras sin enlace a código.
+El Controlador (C) es como hemos indicado ya, el intermediario o capa intermedia entre la vista y el Modelo.
