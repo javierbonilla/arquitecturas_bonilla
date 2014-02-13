@@ -1,4 +1,3 @@
-
 TALLER
 ARQUITECTURA DE SOFTWARE
                                 
@@ -8,7 +7,8 @@ ARQUITECTURA DE SOFTWARE
 
 Christian Javier Bonilla Calderón 
 Alumno
-link: https://github.com/javierbonilla
+link pagina :     https://github.com/javierbonilla
+link repositorio: https://github.com/javierbonilla/arquitecturas_bonilla/blob/master/taller1_bonilla.txt
 
 Edicsón Pineda Cadena
 Docente 
